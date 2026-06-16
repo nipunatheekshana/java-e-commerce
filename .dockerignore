@@ -1,0 +1,7 @@
+out/
+*.jar
+*.class
+test
+.git
+.DS_Store
+README.md

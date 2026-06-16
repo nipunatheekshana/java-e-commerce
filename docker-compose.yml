@@ -1,0 +1,7 @@
+services:
+  ecommerce:
+    build: .
+    image: ecommerce-mgmt:latest
+    # Keep stdin open and allocate a TTY so the console menus are interactive.
+    stdin_open: true
+    tty: true
