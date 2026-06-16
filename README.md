@@ -1,16 +1,3 @@
-# E-Commerce Management System (Group 03)
-
-A Java console application that implements the **Online E-Commerce Management
-System** described in the project proposal (course SWT12031 – Practical for
-Object Oriented Programming). It demonstrates core OOP principles —
-**abstraction, encapsulation, inheritance and polymorphism** — across a
-modular customer / product / cart / order / admin design.
-
-You do **not** need Java installed locally — everything compiles and runs
-inside Docker.
-
----
-
 ## Quick start (Docker)
 
 ```bash
